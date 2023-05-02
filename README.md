@@ -5,7 +5,7 @@
   <img src="./img/Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Project's README</b></h3>
+  <h3><b>Trials Code Review README</b></h3>
 
 </div>
 
@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Trials Code Review <a name="about-project"></a>
 
-**[Hello Microverse]** is a project related to the code review, from Microverse's curriculum. The goal of this project is to run a complete coding review for learn how to give feedback to other students.
+**Trials Code Review** is a project related to the code review, from Microverse's curriculum. The goal of this project is to run a complete coding review for learn how to give feedback to other students.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
